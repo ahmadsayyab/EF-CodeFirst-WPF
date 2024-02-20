@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework-CodeFirst-WPF-App", "EntityFramework-CodeFirst-WPF-App\EntityFramework-CodeFirst-WPF-App.csproj", "{57836AE6-716B-43BC-AAEC-2E15199B4B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-CodeFirst-Library", "EF-CodeFirst-Library\EF-CodeFirst-Library.csproj", "{557CE5C6-255C-49C5-B956-770C7322C2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57836AE6-716B-43BC-AAEC-2E15199B4B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57836AE6-716B-43BC-AAEC-2E15199B4B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57836AE6-716B-43BC-AAEC-2E15199B4B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57836AE6-716B-43BC-AAEC-2E15199B4B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557CE5C6-255C-49C5-B956-770C7322C2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557CE5C6-255C-49C5-B956-770C7322C2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557CE5C6-255C-49C5-B956-770C7322C2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557CE5C6-255C-49C5-B956-770C7322C2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B07B1B-A476-48D8-B4A3-C9B81573BE0A}
+	EndGlobalSection
+EndGlobal
